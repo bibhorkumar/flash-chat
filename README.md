@@ -1,2 +1,2 @@
-# flash-chat
-a group chatting application 
+# flash-chat website
+a group chatting application landing page
